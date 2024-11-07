@@ -8,7 +8,7 @@
     <link href="/2024/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <url>/2024/11/06/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<p>#我于2024&#x2F;&#x2F;11&#x2F;6搭建好了自己的博客网站，后面会对其进行更改 （0.0）</p>]]></content>
+    <content type="html"><![CDATA[<p>#我于2024&#x2F;&#x2F;11&#x2F;6搭建好了自己的博客网站，后面会对其进行更改 （0.0）<br>##11.7–加入了网站评论功能–使用gittalk评论插件来实现过程<br>##1.创建Github OAuth 应用<br>###1.打开Github并点击个人头像下划找到setting<br>##2.问题<br>homepage URL：the URL to your application homepage 不想写了明天再说</p>]]></content>
     
     
     
